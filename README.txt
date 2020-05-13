@@ -6,7 +6,7 @@ edith-sh.c
 edith-sh.exe
 
 
---------edith-sh.c-----------------
+--------edith-sh-----------------
 edith-sh can do basic functions that an OS shell can do such as:
 -Built-in support for “exit”, and “cd”,
 -"read→parse→execute” loop,
